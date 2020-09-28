@@ -8,3 +8,4 @@ def intialize(name,breed,age)
   @age = age
 
 end 
+end 
